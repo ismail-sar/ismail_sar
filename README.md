@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İsmail ŞAR</h1>
 <h3 align="center">FULL STACK DEVELOPER |Warehouse Systems Leader | Logistics Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-sar&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-sar" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D03AQFVVmKFjjFHTA/profile-displayphoto-shrink_200_200/B4DZQ8_XTUHUAc-/0/1736190031503?e=1751500800&v=beta&t=wWlm-_Omowv2fRR8MqGLpPJitXgZTNhFJoaGpkomric" /> </p>
 
 - 🌱 I’m currently learning **IT System & Infrastructure Specialist**
 
