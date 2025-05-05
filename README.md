@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İsmail ŞAR</h1>
-<h3 align="center">FULL STACK DEVELOPER |Warehouse Systems Leader | Logistics Specialist</h3>
+<h3 align="center">🎯 **Full Stack Developer** | 🖥️ **IT Destek ve Sistem Yönetimi Uzmanı** |Warehouse Systems Leader | Logistics Specialist</h3>
 
 <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D03AQFVVmKFjjFHTA/profile-displayphoto-shrink_200_200/B4DZQ8_XTUHUAc-/0/1736190031503?e=1751500800&v=beta&t=wWlm-_Omowv2fRR8MqGLpPJitXgZTNhFJoaGpkomric" /> </p>
 
