@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adam Asmaca Oyunu</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Adam Asmaca Oyunu</h1>
+        <div id="wordArea"></div>
+        <div id="wrongLetters"></div>
+        <div id="remainingLives">Kalan Can: 10</div> <!-- Kalan can sayısı -->
+        <div id="hint">İpucu: </div> <!-- İpucu kısmı -->
+        <input type="text" id="letterInput" maxlength="1" placeholder="Bir harf girin (ör. a)">
+        <button id="guessButton">Tahmin Et</button>
+        <div id="message"></div>
+    </div>
+    <script src="scripts/app.js"></script>
+</body>
+</html>
